@@ -1,0 +1,2 @@
+autotok[youtube]>=2.1.0
+playwright>=1.48

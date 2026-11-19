@@ -1,0 +1,7 @@
+cookies*.txt
+*.log
+.venv/
+__pycache__/
+*.mp4
+*.mov
+TK_cookies*.json
